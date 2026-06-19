@@ -1,0 +1,166 @@
+You are an expert Website Strategist and Senior UI/UX Architect. I will provide complete business data from public sources. Analyze it deeply and create a FINAL READY-TO-USE website generation prompt for a website-building AI. The website must be premium, modern, aesthetic, conversion-focused, mobile-first, and look agency-designed, not AI-
+generated. Use a minimal color palette, strong hero section, persuasive copywriting, clear CTAs, smooth 3D motion effects, and calm interactive animations. Include Home, Menu, About Us, and Visit Us pages with buttons. From the provided Zomato link, extract all menu items (without prices) and create a Menu page with clickable Food and Beverages categories; Food must be divided into Veg and Non-Veg lists. Add Instagram sections on the Home and Visit Us pages using the provided Instagram link. Improve content quality without changing business facts.
+Create a Modern Premium Website for YAKUZA ELECTRIC SCOOTY – RADHE MOTORS, GODDA
+
+Design a professional, modern, mobile-friendly electric vehicle dealership website for "YAKUZA ELECTRIC SCOOTY – RADHE MOTORS, GODDA".
+
+Business Details:
+
+- Business Name: YAKUZA ELECTRIC SCOOTY – RADHE MOTORS, GODDA
+- Category: Authorized Electric Scooter Dealer
+- Address: Opposite Van Heusen, Nahar Chowk Road, Fasia Dangal, Godda, Jharkhand – 814133
+- Phone/WhatsApp: +91 79923 81124
+- Business Hours: Open Daily | 9:30 AM – 8:00 PM
+- Rating: 5.0 ★ Customer Satisfaction
+
+Website Style:
+
+- Premium EV showroom design
+- Modern animations and smooth scrolling
+- Green, Black and White color theme
+- Responsive for Mobile, Tablet and Desktop
+- Fast loading and SEO optimized
+- Attractive electric vehicle themed graphics
+
+Homepage Hero Section:
+
+- Full-width banner with electric scooters
+- Headline:
+  "Ride the Future with YAKUZA Electric Scooters"
+- Subheading:
+  "Affordable, Eco-Friendly & Stylish Electric Mobility Solutions in Godda"
+- CTA Buttons:
+  - Book Test Ride
+  - WhatsApp Now
+  - Call Dealer
+
+About Section:
+
+- Introduce Radhe Motors as an authorized Yakuza Electric Vehicle dealership.
+- Mention quality products, service support, spare parts availability and customer satisfaction.
+- Explain benefits of electric vehicles:
+  - Zero Fuel Cost
+  - Eco-Friendly
+  - Low Maintenance
+  - Stylish Design
+  - Affordable Ownership
+
+Featured Scooters Section:
+Display scooter cards with:
+
+- High Quality Image
+- Model Name
+- Battery Type
+- Range Per Charge
+- Top Speed
+- Charging Time
+- Color Options
+- Ex-showroom Price
+- EMI Starting Price
+- Book Now Button
+
+Suggested Models:
+
+1. Yakuza Rubie
+2. Yakuza Neu
+3. Yakuza Mini
+4. Yakuza Deluxe
+5. Yakuza Premium
+
+Price Section:
+Create an attractive pricing table:
+
+- Model
+- Range
+- Battery
+- Top Speed
+- Price
+- EMI Option
+- Book Now
+
+Gallery Section:
+
+- Display all showroom images provided
+- Image slider
+- Zoom effect
+- Customer delivery photos
+- Vehicle showcase photos
+- Showroom interior and exterior photos
+
+Why Choose Us Section:
+Icons and cards showing:
+✔ Authorized Dealer
+✔ Genuine Spare Parts
+✔ Best Price Guarantee
+✔ Finance Available
+✔ Fast Delivery
+✔ Service Support
+✔ Roadside Assistance
+✔ Experienced Staff
+
+Booking Form:
+Fields:
+
+- Name
+- Mobile Number
+- Email
+- City
+- Interested Model
+- Message
+
+Button:
+"Book Your Electric Scooter"
+
+Finance & EMI Section:
+
+- Easy Finance Available
+- Low Down Payment
+- Instant Approval
+- Flexible EMI Plans
+
+Customer Reviews:
+Display customer testimonials with star ratings.
+
+Contact Section:
+
+- Google Maps Integration
+- Address
+- Phone
+- WhatsApp
+- Business Hours
+
+WhatsApp Floating Button:
+Direct WhatsApp Chat:
++91 79923 81124
+
+Call Button:
+One-click calling functionality.
+
+Footer:
+
+- Quick Links
+- Privacy Policy
+- Terms & Conditions
+- Contact Information
+- Social Media Links
+
+SEO Optimization:
+Title:
+"YAKUZA Electric Scooty Dealer in Godda | Radhe Motors"
+
+Meta Description:
+"Buy affordable Yakuza Electric Scooters in Godda. Best prices, EMI options, test rides, sales, service and spare parts available at Radhe Motors."
+
+Extra Features:
+
+- Dark/Light Mode
+- Test Ride Booking
+- Vehicle Comparison Tool
+- EMI Calculator
+- Lead Generation Forms
+- Google Reviews Integration
+- Fast Performance
+- Professional EV Showroom Appearance
+
+Goal:
+Generate maximum inquiries, bookings, test ride requests and electric scooter sales while creating trust and a premium dealership brand image.

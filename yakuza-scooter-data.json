@@ -1,0 +1,226 @@
+{
+  "dealership": {
+    "name": "YAKUZA ELECTRIC SCOOTY – RADHE MOTORS",
+    "location": "Opposite Van Heusen, Nahar Chowk Road, Fasia Dangal, Godda, Jharkhand – 814133",
+    "phone": "+91 79923 81124",
+    "whatsapp": "+91 79923 81124",
+    "hours": "Open Daily | 9:30 AM – 8:00 PM",
+    "rating": 5.0,
+    "tagline": "Ride the Future, Live the Freedom"
+  },
+  "models": [
+    {
+      "id": 1,
+      "name": "Yakuza Rubie",
+      "category": "Entry-Level",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663770132509/a3vyFccyzEa2pbzzSu8Qwb/yakuza-rubie-model-7b8Hm9EvCs6PHb6C8zb3LL.webp",
+      "specs": {
+        "battery": "48V 30Ah",
+        "range": "70 km",
+        "topSpeed": "25 km/h",
+        "chargingTime": "6-8 hours",
+        "motor": "250W BLDC",
+        "maxLoad": "150 kg"
+      },
+      "colors": ["Electric Green", "Jet Black", "Pearl White"],
+      "pricing": {
+        "exShowroom": 49999,
+        "emiStarting": 2499,
+        "downPayment": 10000
+      },
+      "features": [
+        "LED Headlight",
+        "Digital Display",
+        "USB Charging Port",
+        "Spacious Storage",
+        "LED Taillight"
+      ],
+      "warranty": "2 Years"
+    },
+    {
+      "id": 2,
+      "name": "Yakuza Neu",
+      "category": "Mid-Range",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663770132509/a3vyFccyzEa2pbzzSu8Qwb/yakuza-neu-model-VK6zjxfBh2ENSXPPF2M7te.webp",
+      "specs": {
+        "battery": "48V 40Ah",
+        "range": "90 km",
+        "topSpeed": "30 km/h",
+        "chargingTime": "5-6 hours",
+        "motor": "350W BLDC",
+        "maxLoad": "160 kg"
+      },
+      "colors": ["Electric Green", "Jet Black", "Pearl White", "Cyber Blue"],
+      "pricing": {
+        "exShowroom": 64999,
+        "emiStarting": 3249,
+        "downPayment": 13000
+      },
+      "features": [
+        "Advanced LED Headlight",
+        "Smart Digital Display",
+        "USB Charging Port",
+        "Spacious Storage",
+        "LED Taillight",
+        "Cruise Control"
+      ],
+      "warranty": "2 Years"
+    },
+    {
+      "id": 3,
+      "name": "Yakuza Mini",
+      "category": "Compact",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663770132509/a3vyFccyzEa2pbzzSu8Qwb/yakuza-mini-model-NF8k2YwsETjMJpSfF3XiXn.webp",
+      "specs": {
+        "battery": "36V 25Ah",
+        "range": "50 km",
+        "topSpeed": "20 km/h",
+        "chargingTime": "4-5 hours",
+        "motor": "200W BLDC",
+        "maxLoad": "120 kg"
+      },
+      "colors": ["Electric Green", "Jet Black"],
+      "pricing": {
+        "exShowroom": 39999,
+        "emiStarting": 1999,
+        "downPayment": 8000
+      },
+      "features": [
+        "Compact Design",
+        "Lightweight",
+        "LED Lights",
+        "Digital Display",
+        "Easy Portability"
+      ],
+      "warranty": "1.5 Years"
+    },
+    {
+      "id": 4,
+      "name": "Yakuza Deluxe",
+      "category": "Premium",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663770132509/a3vyFccyzEa2pbzzSu8Qwb/yakuza-deluxe-model-fknfKhNRRphNTNPRG897Xz.webp",
+      "specs": {
+        "battery": "60V 50Ah",
+        "range": "120 km",
+        "topSpeed": "40 km/h",
+        "chargingTime": "4-5 hours",
+        "motor": "2000W BLDC",
+        "maxLoad": "180 kg"
+      },
+      "colors": ["Electric Green", "Jet Black", "Pearl White", "Cyber Blue", "Sunset Orange"],
+      "pricing": {
+        "exShowroom": 99999,
+        "emiStarting": 4999,
+        "downPayment": 20000
+      },
+      "features": [
+        "Premium LED Headlight",
+        "Smart Digital Display",
+        "USB Charging Port",
+        "Spacious Storage",
+        "LED Taillight",
+        "Cruise Control",
+        "Disc Brakes",
+        "Tubeless Tyres"
+      ],
+      "warranty": "3 Years"
+    },
+    {
+      "id": 5,
+      "name": "Yakuza Premium",
+      "category": "Luxury",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663770132509/a3vyFccyzEa2pbzzSu8Qwb/yakuza-hero-scooter-cD5S75cQZa9S74aHY8Qh5A.webp",
+      "specs": {
+        "battery": "72V 60Ah",
+        "range": "150 km",
+        "topSpeed": "50 km/h",
+        "chargingTime": "3-4 hours",
+        "motor": "3000W BLDC",
+        "maxLoad": "200 kg"
+      },
+      "colors": ["Electric Green", "Jet Black", "Pearl White", "Cyber Blue", "Sunset Orange", "Midnight Purple"],
+      "pricing": {
+        "exShowroom": 149999,
+        "emiStarting": 7499,
+        "downPayment": 30000
+      },
+      "features": [
+        "Premium LED Headlight with ADB",
+        "Advanced Smart Digital Display",
+        "USB Charging Port",
+        "Premium Spacious Storage",
+        "LED Taillight",
+        "Cruise Control",
+        "Disc Brakes Front & Rear",
+        "Tubeless Tyres",
+        "Smartphone Connectivity",
+        "GPS Navigation Ready"
+      ],
+      "warranty": "3 Years"
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "icon": "CheckCircle",
+      "title": "Authorized Dealer",
+      "description": "Official YAKUZA Electric Scooter Dealer"
+    },
+    {
+      "icon": "Wrench",
+      "title": "Genuine Spare Parts",
+      "description": "Original parts and accessories available"
+    },
+    {
+      "icon": "DollarSign",
+      "title": "Best Price Guarantee",
+      "description": "Competitive pricing in Godda region"
+    },
+    {
+      "icon": "CreditCard",
+      "title": "Finance Available",
+      "description": "Easy EMI options with low down payment"
+    },
+    {
+      "icon": "Zap",
+      "title": "Fast Delivery",
+      "description": "Quick delivery and registration support"
+    },
+    {
+      "icon": "Headphones",
+      "title": "Service Support",
+      "description": "24/7 customer service and support"
+    },
+    {
+      "icon": "MapPin",
+      "title": "Roadside Assistance",
+      "description": "Emergency support on the road"
+    },
+    {
+      "icon": "Users",
+      "title": "Experienced Staff",
+      "description": "Expert team to guide your purchase"
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Zero Fuel Cost",
+      "description": "No petrol required - charge at home for just ₹2-3"
+    },
+    {
+      "title": "Eco-Friendly",
+      "description": "Zero emissions - clean and green mobility"
+    },
+    {
+      "title": "Low Maintenance",
+      "description": "Minimal servicing - save on maintenance costs"
+    },
+    {
+      "title": "Stylish Design",
+      "description": "Modern, sleek design that turns heads"
+    },
+    {
+      "title": "Affordable Ownership",
+      "description": "Best value for money in the market"
+    }
+  ]
+}
